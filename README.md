@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/aida/ALJJyrDz7hhbWSX4I5UiDpBfuWs6cMWHAIgY-kZCCnEmHZ5i8DPi0GmfR3Qp7W1WD9ccjNnMX-62x6loFOBBNlI4yo_KIBZoaNTYL-7RQzpsVmkSCT4r1jQ7ac9h_PTK0U9nlY700_grYtnSd1Zll2UBfl5uUBMuDRVY4F5Vlj0xvzzqmHCEwAH0sUgoPlomic2mc507LqZb50_Gq5zWUdJxvWRGdEPN5RDDWOVL_LOneBdH" alt="Sentima AI Logo" width="60"/>
+  <img src="https://lh3.googleusercontent.com/aida/ALJJyrDz7hhbWSX4I5UiDpBfuWs6cMWHAIgY-kZCCnEmHZ5i8DPi0GmfR3Qp7W1WD9ccjNnMX-62x6loFOBBNlI4yo_KIBZoaNTYL-7RQzpsVmkSCT4r1jQ7ac9h_PTK0U9nlY700_grYtnSd1[...]
   <h1>Sentima AI</h1>
   <p><b>DistilBERT Emotion & Sentiment Studio</b></p>
   
@@ -13,9 +13,9 @@
 
 <br/>
 
-![Sentima AI Dashboard](screen.jpg)
+![Sentima AI Dashboard](screen.png)
 
-**Sentima AI** shifts sentiment analysis away from classical bag-of-words approaches into context-aware deep learning. By leveraging Multi-Head Self-Attention, the engine preserves word order, resolves negation traps (e.g., *"I am not happy"*), and outputs a granular 6-class emotional taxonomy.
+**Sentima AI** shifts sentiment analysis away from classical bag-of-words approaches into context-aware deep learning. By leveraging Multi-Head Self-Attention, the engine preserves word order, resolves long-range dependencies, and produces contextual embeddings that outperform classical baselines on emotion and sentiment classification tasks.
 
 The frontend utilizes the **Alexandria Design System**—a glassmorphic, editorial-grade UI prioritizing generous whitespace, serif authority, and tonal elevation.
 
@@ -48,3 +48,4 @@ graph LR
     style B fill:#094cb2,stroke:#000,stroke-width:1px,color:#fff
     style C fill:#3366cc,stroke:#000,stroke-width:1px,color:#fff
     style G fill:#6d5e00,stroke:#000,stroke-width:1px,color:#fff
+```
